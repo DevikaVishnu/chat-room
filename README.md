@@ -1,5 +1,7 @@
 # Chat Room
 
+This project is a chat room application make up of server program capable of handling multiple clients.
+
 ## Compilation:
 Server:
 ```
