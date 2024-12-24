@@ -1,6 +1,6 @@
 # Chat Room
 
-This project is a chat room application make up of server program capable of handling multiple clients.
+This project is a chat room application consisting of a server program capable of handling multiple clients, and a client program that can connect to the server.
 
 ## Compilation:
 Server:
